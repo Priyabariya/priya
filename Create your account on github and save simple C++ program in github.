@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main()
+
+{
+
+    /* ...... start of program......*/
+    cout << "Hello World";
+    /* ...... end of program......*/
+    
+}
